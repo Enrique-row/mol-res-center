@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/mol-res-center/static/css/main.981f7211.chunk.css",
+    "main.js": "/mol-res-center/static/js/main.278c20a5.chunk.js",
+    "main.js.map": "/mol-res-center/static/js/main.278c20a5.chunk.js.map",
+    "runtime-main.js": "/mol-res-center/static/js/runtime-main.956a84c3.js",
+    "runtime-main.js.map": "/mol-res-center/static/js/runtime-main.956a84c3.js.map",
+    "static/css/2.4e89ce74.chunk.css": "/mol-res-center/static/css/2.4e89ce74.chunk.css",
+    "static/js/2.254b2977.chunk.js": "/mol-res-center/static/js/2.254b2977.chunk.js",
+    "static/js/2.254b2977.chunk.js.map": "/mol-res-center/static/js/2.254b2977.chunk.js.map",
+    "index.html": "/mol-res-center/index.html",
+    "precache-manifest.7acf3cd53d8de280624ccc768f7f0590.js": "/mol-res-center/precache-manifest.7acf3cd53d8de280624ccc768f7f0590.js",
+    "service-worker.js": "/mol-res-center/service-worker.js",
+    "static/css/2.4e89ce74.chunk.css.map": "/mol-res-center/static/css/2.4e89ce74.chunk.css.map",
+    "static/css/main.981f7211.chunk.css.map": "/mol-res-center/static/css/main.981f7211.chunk.css.map",
+    "static/media/persik.png": "/mol-res-center/static/media/persik.4e1ec840.png"
+  }
+}
